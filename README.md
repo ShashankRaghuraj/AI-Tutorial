@@ -46,7 +46,7 @@ As stated before, Vision AI refers to analyzing images and determining complex a
 
 Before doing anything, make sure you download a **virtual environment**.
 
-Virtual environment: it’s basically a place that doesn’t physically happen on your computer it takes place, well, virtually. This is important because some of the libraries that are needed to download, are very hard to get to work without a virtual environment. 
+Virtual environment: Virtual environments aid with installing the necessary packages, by avoiding the version that needs to be downloaded. This is important for both opencv and other packages you want to install in the future(for example speechrecognition, numpy, matplotlib, etc)
 
 The virtual environment I use is virtualenv
 
